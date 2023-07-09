@@ -1,0 +1,4 @@
+Calificación: 2/3
+
+Tarea atrasada!!!
+Debe poner nombre a los archivos, de acuerdo al formato propuesto en clase, por ejemplo descuento_ejer08.cpp
